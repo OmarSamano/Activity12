@@ -9,6 +9,7 @@
     <!-- Import Vue.js by CDN -->
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Page Styles -->
     <style>
         body {
